@@ -1,2 +1,2 @@
 # Data_Science
-Use Cases related to Data Science
+Use Cases and Projects related to Data Science
